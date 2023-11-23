@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HexMap", "HexMap\HexMap.vcxproj", "{F2D7EDF5-6213-4296-9756-3D42F824992B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D7EDF5-6213-4296-9756-3D42F824992B}.Debug|x64.ActiveCfg = Debug|x64
+		{F2D7EDF5-6213-4296-9756-3D42F824992B}.Debug|x64.Build.0 = Debug|x64
+		{F2D7EDF5-6213-4296-9756-3D42F824992B}.Release|x64.ActiveCfg = Release|x64
+		{F2D7EDF5-6213-4296-9756-3D42F824992B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDEB6AFC-6BFF-407B-BCE7-E439FAEE6D52}
+	EndGlobalSection
+EndGlobal
